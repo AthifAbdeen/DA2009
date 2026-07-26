@@ -1,0 +1,8 @@
+Data,Value,Type
+first_name,Usain,str
+last_name,Bolt,str
+full_name,Usain Bolt,str
+age,39,int
+Still_active,False,bool
+olympics_won,"['2008', '2012', '2016']",list
+website,https://usainbolt.com,str
